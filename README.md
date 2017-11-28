@@ -34,5 +34,7 @@ Here is an example of the kind of drawing it creates...
 Get the source code right here and load it into your PSP scripts folder.
 
 If you have any good ideas to improve the code or you make improvements, 
-please pass me an update.
+please email me...
+
+![email me](email.png)
 
